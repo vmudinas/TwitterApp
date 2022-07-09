@@ -1,6 +1,6 @@
 
-##TwitterApp
-#Sample project that pulls from the Twitter v2 API Sample feed and displays total tweets received as well as top 10 most popular tweets.
+# TwitterApp
+## Sample project that pulls from the Twitter v2 API Sample feed and displays total tweets received as well as top 10 most popular tweets.
 
 The project is built with .NET core 6 and EF core in memory database. 
 
